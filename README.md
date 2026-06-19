@@ -1,2 +1,10 @@
-# portfolio-f7cf08
-Public portfolio site
+# bowosc.github.io
+
+Minimal multi-page GitHub Pages site.
+
+Pages:
+
+- `index.html`
+- `notes.html`
+- `projects.html`
+- `contact.html`
